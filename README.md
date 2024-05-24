@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Make it Deploy (on Vercel)
+- [x] Make it Deploy (on Vercel)
 - [ ] Scaffold basic UI with mock data
   - [ ] Home Page ( Unprotected )
     - API:
